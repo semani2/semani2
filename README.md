@@ -30,6 +30,8 @@ Although cliched, I strongly believe in being people first. What that means to m
 - The thing that I enjoy the most is supporting people to grow in their careers. I approach this through effective coaching, timely feedback, and regular 1-1s.
 - Lastly, hiring a diverse team is something that I am super passionate about and feel is crucial to the team's long-term success.
 
+Make sure to read my [post](https://github.com/semani2/leadership/blob/main/oneonone.md) on how I like conducting 1-1s.
+
 #### Product
 - As an engineering manager, the next most important aspect of my role is to support the team in delivering complex, robust, and engaging products to our users.
 - I love to play the role of a devil's advocate to make sure that we are building the right things at the right time.
