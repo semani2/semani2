@@ -22,7 +22,7 @@ As an engineering manager, I categorize my responsibilities into the following t
 - People 🙍🏽
 - Product 📱
 - Engineering 🛠
-And the foundations that support these three pillars are** Culture & Values**.
+And the foundations that support these three pillars are **Culture & Values** .
 
 #### People
 Although cliched, I strongly believe in being people first. What that means to me is:
