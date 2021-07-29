@@ -1,6 +1,6 @@
 
 ## Hi 👋🏽  
-My name is Sai Emani (he/him), and I am currently an Engineering Manager @ WealthSimple supporting the Cash team.
+My name is Sai Emani (he/him), and I am currently an Engineering Manager @ Wealthsimple supporting the Cash team.
 
 This post is a guide to my leadership philosophy and a little about me.
 
