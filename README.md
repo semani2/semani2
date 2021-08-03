@@ -21,7 +21,7 @@ I joined Flipp as a Senior Android developer and soon took on the role of an Eng
 As an engineering manager, I categorize my responsibilities into the following three pillars:
 - People 🙍🏽
 - Product 📱
-- Engineering 🛠
+- Engineering 🛠 <br/>
 And the foundations that support these three pillars are **Culture & Values** .
 
 #### People
@@ -80,7 +80,7 @@ Tools I use:
 - Hit Refresh by Satya Nadella
 - The Manager's Path by Camille Fournier
 - The Culture Code by Daniel Coyle
-- Powerful by Patty McCort
+- Powerful by Patty McCord
 - Principles by Ray Dalio
 - Measure what Matters by John Doerr
 - The Lean Startup by Eric Ries
