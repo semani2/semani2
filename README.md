@@ -1,21 +1,26 @@
 
 ## Hi 👋🏽  
-My name is Sai Emani (he/him), and I am currently an Engineering Manager @ Wealthsimple supporting the Cash team.
+My name is Sai Emani (he/him), and I am currently an Engineering Manager @ Wealthsimple supporting the Banking organization.
 
 This post is a guide to my leadership philosophy and a little about me.
 
 ### About Me
 Outside of work, I enjoy yoga, meditation, and F1. In addition, my wife and I are foodies, and we love to cook and eat out at new restaurants. I like to spend my free time playing tennis, [photography](https://www.instagram.com/prajnan.photography/), hiking, and reading. One does usually find me contemplating metaphysical questions around the meaning and source of life.
 
-My 2021 goals are 🎯
-- To read 15 books 📚 Here is my [2021 reading list](https://trello.com/b/I8CuSDJx/sais-reading-list) if you are interested.
+Here is my [2022 reading list](https://trello.com/b/I8CuSDJx/sais-reading-list) if you are interested.
+
+My 2022 goals are 🎯
+- Learning to be a dad to my newborn son 👶🏽
+- To become a more effective, empathetic and impactful people manager.
+
+In 2021, I successfully completed the following goals: 🎯
+- To read 15 books 📚 
 - To get better at portfolio management and building a diversified growth + dividend portfolio 💰
 - To practice Hatha Yoga for at least five days a week 🧘🏽
 
 I graduated from the North Carolina State University with a Master's in Computer Science and started my professional career as a Software Engineer on the mobile team at Citrix Systems. Subsequently, I joined the mobile team at DocuSign in San Francisco, where I led a couple of exciting projects like document scanning and auto-tagging using Machine learning.
 
-In 2019, my wife and I moved to Canada 🇨🇦 from the US 🇺🇸 to pursue new experiences and opportunities. 
-I joined Flipp as a Senior Android developer and soon took on the role of an Engineering Manager. I also led the Android guild and was also the founding member of the Diversity and Inclusion committee.
+In 2019, my wife and I moved to Canada 🇨🇦 from the US 🇺🇸 to pursue new experiences and opportunities and joined Flipp as an Engineering Manager. I also led the Android guild and was also the founding member of the Diversity and Inclusion committee.
 
 ### My Role
 As an engineering manager, I categorize my responsibilities into the following three pillars:
