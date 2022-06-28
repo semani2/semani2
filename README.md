@@ -39,8 +39,8 @@ Make sure to read my [post](https://github.com/semani2/leadership/blob/main/oneo
 
 #### Product
 - As an engineering manager, the next most important aspect of my role is to support the team in delivering complex, robust, and engaging products to our users.
-- I love to play the role of a devil's advocate to make sure that we are building the right things at the right time.
-- I am also a strong advocate of "building it right the first time" to avoid piling up tech debt.
+- I love to partner with product, design and UX research leaders to ensure that we are building what is most useful to our users in a sustainable and timely manner.
+- I am also a strong advocate of "building it right the first time" (where applicable) to avoid piling up tech debt.
 
 #### Engineering
 - As an engineer, I am always looking at ways to improve the team's efficiency, quality, and processes. 
